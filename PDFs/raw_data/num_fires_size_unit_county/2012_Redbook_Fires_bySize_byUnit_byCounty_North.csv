@@ -1,0 +1,52 @@
+"",,A,B,C,D,E,F,G
+NORTHERN REGION,Total,.25 acres or <,.26-9.99 acres,10-99 acres,100-299 acres,300-999 acres,1000-4999 acres,5000 acres >
+Amador,55,34,18,3,0,0,0,0
+El Dorado,169,121,42,5,1,0,0,0
+Sacramento,12,5,4,3,0,0,0,0
+Amador-El Dorado,236,160,64,11,1,0,0,0
+Butte,114,53,56,4,1,0,0,0
+Tehama,4,1,2,0,0,0,1,0
+Butte,118,54,58,4,1,0,1,0
+Del Norte,35,25,5,5,0,0,0,0
+Humboldt,88,52,34,1,1,0,0,0
+Humboldt-Del Norte,123,77,39,6,1,0,0,0
+Lassen,25,12,10,2,1,0,0,0
+Modoc,9,3,6,0,0,0,0,0
+Plumas,8,5,2,0,1,0,0,0
+Lassen-Modoc,42,20,18,2,2,0,0,0
+Mendocino,102,45,47,7,1,1,1,0
+Mendocino,102,45,47,7,1,1,1,0
+Nevada,90,42,48,0,0,0,0,0
+Placer,111,64,46,0,0,0,1,0
+Sierra,1,0,1,0,0,0,0,0
+Yuba,47,10,34,3,0,0,0,0
+Nevada-Yuba-Placer,249,116,129,3,0,0,1,0
+San Mateo,15,8,6,1,0,0,0,0
+Santa Cruz,43,28,14,0,1,0,0,0
+San Mateo-Santa Cruz,58,36,20,1,1,0,0,0
+"",,A,B,C,D,E,F,G
+NORTHERN REGION,Total,.25 acres or <,.26-9.99 acres,10-99 acres,100-299 acres,300-999 acres,1000-4999 acres,5000 acres >
+Alameda,15,3,9,3,0,0,0,0
+Contra Costa,21,10,9,1,1,0,0,0
+Santa Clara,34,16,18,0,0,0,0,0
+W. San Joaquin,4,0,2,1,1,0,0,0
+W. Stanislaus,10,5,4,1,0,0,0,0
+Santa Clara,84,34,42,6,2,0,0,0
+E. Trinity,22,9,13,0,0,0,0,0
+Shasta,171,49,112,5,4,0,1,0
+Shasta-Trinity,193,58,125,5,4,0,1,0
+Shasta,1,1,0,0,0,0,0,0
+Siskiyou,98,63,29,3,3,0,0,0
+Siskiyou,99,64,29,3,3,0,0,0
+Colusa,8,1,1,3,0,1,2,0
+Lake,74,24,45,2,0,1,1,1
+Napa,33,12,20,0,1,0,0,0
+Solano,19,6,9,3,1,0,0,0
+Sonoma,128,74,50,4,0,0,0,0
+Yolo,15,6,4,0,3,1,0,1
+Sonoma-Lake-Napa,277,123,129,12,5,3,3,2
+Glenn,6,3,3,0,0,0,0,0
+Tehama,76,30,34,8,2,1,0,1
+Tehama-Glenn,82,33,37,8,2,1,0,1
+NORTHERN REGION,,,,,,,,
+TOTAL,"1,663",820,737,68,23,5,7,3
