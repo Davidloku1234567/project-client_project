@@ -1,31 +1,18 @@
-"",,A,B,C,D,E,F,G
-SOUTHERN REGION,Total,.25 acres or <,.26-9.99 acres,10-99 acres,100-299 acres,300-999 acres,1000-4999 acres,5000 acres >
-Fresno,95,25,58,11,1,0,0,0
-Kings,6,0,5,1,0,0,0,0
-Fresno-Kings,101,25,63,12,1,0,0,0
-Madera,72,42,26,4,0,0,0,0
-Mariposa,48,23,24,0,0,0,1,0
-Merced,15,2,12,0,0,1,0,0
-Madera-Mariposa,135,67,62,4,0,1,1,0
-Riverside,172,69,82,13,2,4,2,0
-Riverside,172,69,82,13,2,4,2,0
-Monterey,75,33,35,6,0,0,1,0
-San Benito,21,9,11,1,0,0,0,0
-San Benito-Monterey,96,42,46,7,0,0,1,0
-Inyo,19,10,9,0,0,0,0,0
-San Bernardino,123,86,30,5,1,0,1,0
-San Bernardino,142,96,39,5,1,0,1,0
-San Diego,162,76,64,16,0,2,2,2
-San Diego,162,76,64,16,0,2,2,2
-San Luis Obispo,136,90,41,2,2,1,0,0
-San Luis Obispo,136,90,41,2,2,1,0,0
-Tulare,38,17,15,6,0,0,0,0
-Tulare,38,17,15,6,0,0,0,0
-Calaveras,161,87,66,7,1,0,0,0
-E. San Joaquin,9,0,7,2,0,0,0,0
-E. Stanislaus,22,9,11,2,0,0,0,0
-Tuolumne,85,40,39,4,1,1,0,0
-Tuolumne-Calaveras,277,136,123,15,2,1,0,0
-SOUTHERN REGION,,,,,,,,
-TOTAL,"1,259",618,535,80,8,9,7,2
-STATE TOTAL,"2,922","1,438","1,272",148,31,14,14,5
+county,.25 acres or <,.26-9.99 acres,10-99 acres,100-299 acres,300-999 acres,1000-4999 acres,5000 acres >,year,region
+Fresno,25,58,11,1,0,0,0,2012,south
+Kings,0,5,1,0,0,0,0,2012,south
+Madera,42,26,4,0,0,0,0,2012,south
+Mariposa,23,24,0,0,0,1,0,2012,south
+Merced,2,12,0,0,1,0,0,2012,south
+Riverside,69,82,13,2,4,2,0,2012,south
+Monterey,33,35,6,0,0,1,0,2012,south
+San Benito,9,11,1,0,0,0,0,2012,south
+Inyo,10,9,0,0,0,0,0,2012,south
+San Bernardino,86,30,5,1,0,1,0,2012,south
+San Diego,76,64,16,0,2,2,2,2012,south
+San Luis Obispo,90,41,2,2,1,0,0,2012,south
+Tulare,17,15,6,0,0,0,0,2012,south
+Calaveras,87,66,7,1,0,0,0,2012,south
+E. San Joaquin,0,7,2,0,0,0,0,2012,south
+E. Stanislaus,9,11,2,0,0,0,0,2012,south
+Tuolumne,40,39,4,1,1,0,0,2012,south

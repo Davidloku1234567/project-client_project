@@ -1,56 +1,39 @@
-"",,A,B,C,,D,E,F,G
-NORTHERN REGION,Total,.25 acres or <,.26-9.99 acres,10-99 acres,,100-299 acres,300-999 acres,1000-4999 acres,5000 acres >
-Amador,46,28,17,,0,0,0,0,1
-El Dorado,205,138,61,,4,2,0,0,0
-Sacramento,16,5,8,,0,2,1,0,0
-San Joaquin,6,2,3,,1,0,0,0,0
-Amador-El Dorado,273,173,89,,5,4,1,0,1
-Butte,11,8,2,,1,0,0,0,0
-Tehama,3,2,1,,0,0,0,0,0
-Butte,14,10,3,,1,0,0,0,0
-Del Norte,22,16,6,,0,0,0,0,0
-Humboldt,262,179,69,,9,2,2,1,0
-Humboldt-Del Norte,284,195,75,,9,2,2,1,0
-Lassen,67,54,10,,3,0,0,0,0
-Modoc,16,10,4,,1,1,0,0,0
-Plumas,13,11,2,,0,0,0,0,0
-Shasta,0,0,0,,0,0,0,0,0
-Siskiyou,2,1,1,,0,0,0,0,0
-Lassen-Modoc,98,76,17,,4,1,0,0,0
-Mendocino,139,91,45,,2,1,0,0,0
-Mendocino,139,91,45,,2,1,0,0,0
-Nevada,119,87,28,,2,1,0,1,0
-Placer,125,78,45,,2,0,0,0,0
-Sierra,1,0,1,,0,0,0,0,0
-Sutter,0,0,0,,0,0,0,0,0
-Yuba,46,30,14,,2,0,0,0,0
-Nevada-Yuba-Placer,291,195,88,,6,1,0,1,0
-San Mateo,17,9,7,,1,0,0,0,0
-Santa Cruz,46,40,6,,0,0,0,0,0
-San Mateo-Santa Cruz,63,49,13,,1,0,0,0,0
-"",,,A,B,C,,D,E,F,G
-NORTHERN REGION,Total,,.25 acres or <,.26-9.99 acres,10-99 acres,,100-299 acres,300-999 acres,1000-4999 acres,5000 acres >
-Alameda,50,,14,26,8,,1,0,1,0
-Contra Costa,43,,23,14,5,,1,0,0,0
-Santa Clara,58,,30,25,3,,0,0,0,0
-W. San Joaquin,8,,2,5,1,,0,0,0,0
-W. Stanislaus,8,,1,4,3,,0,0,0,0
-Santa Clara,167,,70,74,20,,2,0,1,0
-E. Trinity,33,,19,10,2,,1,0,1,0
-Shasta,170,,106,53,9,,2,0,0,0
-Shasta-Trinity,203,,125,63,11,,3,0,1,0
-Shasta,1,,1,0,0,,0,0,0,0
-Siskiyou,181,,151,25,4,,0,1,0,0
-Siskiyou,182,,152,25,4,,0,1,0,0
-Colusa,9,,5,3,1,,0,0,0,0
-Lake,75,,42,26,2,,1,1,0,3
-Napa,51,,32,14,4,,0,0,0,1
-Solano,18,,8,7,2,,1,0,0,0
-Sonoma,156,,116,35,5,,0,0,0,0
-Yolo,18,,11,6,0,,1,0,0,0
-Sonoma-Lake-Napa,327,,214,91,14,,3,1,0,4
-Glenn,6,,3,3,0,,0,0,0,0
-Tehama,74,,30,34,9,,1,0,0,0
-Tehama-Glenn,80,,33,37,9,,1,0,0,0
-NORTHERN REGION,,,,,,,,,,
-TOTAL,"2,121",,"1,383",620,86,,18,5,4,5
+county,.25 acres or <,.26-9.99 acres,10-99 acres,100-299 acres,300-999 acres,1000-4999 acres,5000 acres >,year,region
+Amador,28,17,0,0,0,0,1,2015,north
+El Dorado,138,61,4,2,0,0,0,2015,north
+Sacramento,5,8,0,2,1,0,0,2015,north
+San Joaquin,2,3,1,0,0,0,0,2015,north
+Butte,8,2,1,0,0,0,0,2015,north
+Tehama,2,1,0,0,0,0,0,2015,north
+Del Norte,16,6,0,0,0,0,0,2015,north
+Humboldt,179,69,9,2,2,1,0,2015,north
+Lassen,54,10,3,0,0,0,0,2015,north
+Modoc,10,4,1,1,0,0,0,2015,north
+Plumas,11,2,0,0,0,0,0,2015,north
+Shasta,0,0,0,0,0,0,0,2015,north
+Siskiyou,1,1,0,0,0,0,0,2015,north
+Mendocino,91,45,2,1,0,0,0,2015,north
+Nevada,87,28,2,1,0,1,0,2015,north
+Placer,78,45,2,0,0,0,0,2015,north
+Sierra,0,1,0,0,0,0,0,2015,north
+Sutter,0,0,0,0,0,0,0,2015,north
+Yuba,30,14,2,0,0,0,0,2015,north
+San Mateo,9,7,1,0,0,0,0,2015,north
+Santa Cruz,40,6,0,0,0,0,0,2015,north
+Alameda,14,26,8,1,0,1,0,2015,north
+Contra Costa,23,14,5,1,0,0,0,2015,north
+Santa Clara,30,25,3,0,0,0,0,2015,north
+W. San Joaquin,2,5,1,0,0,0,0,2015,north
+W. Stanislaus,1,4,3,0,0,0,0,2015,north
+E. Trinity,19,10,2,1,0,1,0,2015,north
+Shasta (Shasta-Trinity),106,53,9,2,0,0,0,2015,north
+Shasta (Siskiyou),1,0,0,0,0,0,0,2015,north
+Siskiyou,151,25,4,0,1,0,0,2015,north
+Colusa,5,3,1,0,0,0,0,2015,north
+Lake,42,26,2,1,1,0,3,2015,north
+Napa,32,14,4,0,0,0,1,2015,north
+Solano,8,7,2,1,0,0,0,2015,north
+Sonoma,116,35,5,0,0,0,0,2015,north
+Yolo,11,6,0,1,0,0,0,2015,north
+Glenn,3,3,0,0,0,0,0,2015,north
+Tehama,30,34,9,1,0,0,0,2015,north
