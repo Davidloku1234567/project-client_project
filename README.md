@@ -52,7 +52,9 @@ County details include value per square foot, population and area size. Affluenc
 
 ## Executive Summary
 
+California has a notorious reputation for rising wildfire incidents in recent years. This rise is coincided with a huge increase in spending and damage to structures. Settlements in at risk areas continue to grow, putting structures and lives more at risk as they creep closer to wilderness areas. This creates a need to predict damages to structures and infrastructure as wildfires grow larger and more frequent each year. This allows California as a whole to rethink carefully on which areas it wants to develop and how to protect those investments from destruction.
 
+This need for a prediction creates a need for a model to project damages in different parts of the states. Right now, a granularity on a county level is sufficient to make some base estimations in where the state can expect high amounts of destruction. The dataset that was created for the model included wildfire statistics from 2010 to 2016 from Cal Fire. This included dollar damage, causes, number of fires, size of fires and more. However it was found that this was not sufficient, and more data was required. Campgrounds and RV parks were added from Yelp, weather data was added from the National Oceanic and Atmospheric Administration,  population data from the National Census Bureau and developed/wilderness ratio per county was also gathered. Through this data we were able to generate a model score of 0.49. While not very accurate, it gives us a baseline to work with to improve in the future as we start bringing in more data. 
 
 ---
 
